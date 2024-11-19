@@ -70,19 +70,19 @@ export default function ContactUsPage() {
                     <div className="row">
                         <div className="col-md-3 col-sm-6 card bg-primary p-4 mb-5 border-5 border-light">
                             <h3 className='text-light text-center'><i className='fa fa-map-marker'></i> Address</h3>
-                            <p className='text-light text-center'>A-43, Sector 16, Noida, UP, 201301, India</p>
+                            <p className='text-light text-center'>Chandu, Sector 18, Noida, UP, 201301, India</p>
                         </div>
                         <div className="col-md-3 col-sm-6 card bg-primary p-4 mb-5 border-5 border-light">
                             <h3 className='text-light text-center'><i className='fa fa-envelope'></i> Email Address</h3>
-                            <Link to="mailto:vishankchauhan@gmail.com" target='blank' rel="noreferrer" className='text-light text-center'>vishankchauhan@gmail.com</Link>
+                            <Link to="mailto:vishankchauhan@gmail.com" target='blank' rel="noreferrer" className='text-light text-center'>chandramv990826@gmail.com.com</Link>
                         </div>
                         <div className="col-md-3 col-sm-6 card bg-primary p-4 mb-5 border-5 border-light">
                             <h3 className='text-light text-center'><i className='fa fa-phone'></i> Phone</h3>
-                            <Link to="tel:+919873848046" target='blank' rel="noreferrer" className='text-light text-center'>+91-9873848046</Link>
+                            <Link to="tel:+917905622517" target='blank' rel="noreferrer" className='text-light text-center'>+91-7905622517</Link>
                         </div>
                         <div className="col-md-3 col-sm-6 card bg-primary p-4 mb-5 border-5 border-light">
                             <h3 className='text-light text-center'><i className='fa fa-whatsapp'></i> Whats App</h3>
-                            <Link to="https://wa.me/+919873848046" target='blank' rel="noreferrer" className='text-light text-center'>+91-9873848046</Link>
+                            <Link to="https://wa.me/+917905622517" target='blank' rel="noreferrer" className='text-light text-center'>+91-7905622517</Link>
                         </div>
                     </div>
                     <div className="row g-5">

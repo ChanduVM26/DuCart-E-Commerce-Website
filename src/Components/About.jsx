@@ -34,7 +34,7 @@ export default function About() {
                         </div>
                         <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                             <div className="img-border">
-                                <img className="img-fluid" src="img/banner4.jpg" alt="Banner Image" />
+                                <img className="img-fluid" src="img/banner22.jpg" alt="Banner Image" />
                             </div>
                         </div>
                     </div>

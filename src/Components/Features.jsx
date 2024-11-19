@@ -21,7 +21,7 @@ export default function Features() {
               <i className="fa fa-3x fa-mobile text-white"></i>
               <div className="ms-4">
                 <p className="text-white mb-0">Call for more info</p>
-                <Link to="tel:+919873848036" className="fs-4 text-white mb-0">+91-9873848046</Link>
+                <Link to="tel:+919873848036" className="fs-4 text-white mb-0">+91-7905622517</Link>
               </div>
             </div>
           </div>
